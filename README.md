@@ -1,2 +1,2 @@
-# xlaml
-Neural Network using JAX
+# xlapinn
+Physics Informed Neural Network using JAX
